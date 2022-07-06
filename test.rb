@@ -5,6 +5,10 @@ require 'open-uri'
 # this is new comment!!!
 
 
+#bulama bir bela
+
+
+
 # puts URI.open(Faker::Avatar.image)
 def image_fetcher
   URI.open(Faker::Avatar.image+"dsadas")
