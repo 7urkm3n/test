@@ -2,6 +2,8 @@
 require 'faker'
 require 'open-uri'
 
+# this is new comment!!!
+
 
 # puts URI.open(Faker::Avatar.image)
 def image_fetcher
